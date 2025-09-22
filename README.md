@@ -8,4 +8,7 @@ What patterns can be identified in artist popularity and song characteristics?
 This project aims to analyze and visualize Spotify’s dataset to uncover hidden trends, patterns, and insights in the music industry.
 
 
-# PowerBi Reports....
+# PowerBi Reports... Screenshots are as above 
+# Tech Stack-
+   python, PowerBi, Advance-Excel.
+Also used concepts of data cleaning, data preprocessing, DAX queries, calculated columns, calculated rows, Data Visualization, Media Analytics.
